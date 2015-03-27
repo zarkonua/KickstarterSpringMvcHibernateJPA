@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: KickstarterSpringMvcHibernateJPA
+Bundle-SymbolicName: KickstarterSpringMvcHibernateJPA
+Bundle-Version: 1.0.0.qualifier
+Export-Package: ua.com.goit.gojava.alexfurman.kickstarter.controller,
+ ua.com.goit.gojava.alexfurman.kickstarter.entity,
+ ua.com.goit.gojava.alexfurman.kickstarter.repository,
+ ua.com.goit.gojava.alexfurman.kickstarter.service
